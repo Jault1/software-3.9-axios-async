@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/software-3.9-axios-async/static/css/main.50ce2865.css",
+    "main.js": "/software-3.9-axios-async/static/js/main.a7e38847.js",
+    "static/media/AdobeStock_211524227.png": "/software-3.9-axios-async/static/media/AdobeStock_211524227.e7f57706dac8b69e2b66.png",
+    "index.html": "/software-3.9-axios-async/index.html",
+    "main.50ce2865.css.map": "/software-3.9-axios-async/static/css/main.50ce2865.css.map",
+    "main.a7e38847.js.map": "/software-3.9-axios-async/static/js/main.a7e38847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ce2865.css",
+    "static/js/main.a7e38847.js"
+  ]
+}
