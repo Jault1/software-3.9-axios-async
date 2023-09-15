@@ -1,0 +1,451 @@
+[
+    {
+        "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ad3e60ecf202f0b9ceb49f9d0099294b923de994.001.1",
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.ad3e60ecf202f0b9ceb49f9d0099294b923de994.001.1",
+            "@type": "wx:Alert",
+            "id": "urn:oid:2.49.0.1.840.0.ad3e60ecf202f0b9ceb49f9d0099294b923de994.001.1",
+            "areaDesc": "Coastal Palm Beach County",
+            "geocode": {
+                "SAME": [
+                    "012099"
+                ],
+                "UGC": [
+                    "FLZ168"
+                ]
+            },
+            "affectedZones": [
+                "https://api.weather.gov/zones/forecast/FLZ168"
+            ],
+            "references": [
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.070b4c216eeb12ab8e06ec36c9f88d68f9aebc76.001.1",
+                    "identifier": "urn:oid:2.49.0.1.840.0.070b4c216eeb12ab8e06ec36c9f88d68f9aebc76.001.1",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-15T02:40:00-04:00"
+                }
+            ],
+            "sent": "2023-09-15T09:23:00-04:00",
+            "effective": "2023-09-15T09:23:00-04:00",
+            "onset": "2023-09-15T09:23:00-04:00",
+            "expires": "2023-09-15T20:00:00-04:00",
+            "ends": "2023-09-16T20:00:00-04:00",
+            "status": "Actual",
+            "messageType": "Update",
+            "category": "Met",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "urgency": "Expected",
+            "event": "Rip Current Statement",
+            "sender": "w-nws.webmaster@noaa.gov",
+            "senderName": "NWS Miami FL",
+            "headline": "Rip Current Statement issued September 15 at 9:23AM EDT until September 16 at 8:00PM EDT by NWS Miami FL",
+            "description": "* WHAT...Dangerous rip currents.\n\n* WHERE...Coastal Palm Beach County.\n\n* WHEN...Through Saturday evening.\n\n* IMPACTS...Rip currents can sweep even the best swimmers away\nfrom shore into deeper water.",
+            "instruction": "Swim near a lifeguard. If caught in a rip current, relax and\nfloat. Don't swim against the current. If able, swim in a\ndirection following the shoreline. If unable to escape, face the\nshore and call or wave for help.",
+            "response": "Avoid",
+            "parameters": {
+                "AWIPSidentifier": [
+                    "CFWMFL"
+                ],
+                "WMOidentifier": [
+                    "WHUS42 KMFL 151323"
+                ],
+                "NWSheadline": [
+                    "HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH SATURDAY EVENING"
+                ],
+                "BLOCKCHANNEL": [
+                    "EAS",
+                    "NWEM",
+                    "CMAS"
+                ],
+                "VTEC": [
+                    "/O.CON.KMFL.RP.S.0032.000000T0000Z-230917T0000Z/"
+                ],
+                "eventEndingTime": [
+                    "2023-09-17T00:00:00+00:00"
+                ]
+            }
+        }
+    },
+    {
+        "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c9ebf3e021d91dab5f0bb63144a2eaa70adf0bcd.001.1",
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c9ebf3e021d91dab5f0bb63144a2eaa70adf0bcd.001.1",
+            "@type": "wx:Alert",
+            "id": "urn:oid:2.49.0.1.840.0.c9ebf3e021d91dab5f0bb63144a2eaa70adf0bcd.001.1",
+            "areaDesc": "Coastal Volusia; Coastal Indian River; Coastal St. Lucie; Coastal Martin; Mainland Northern Brevard; Northern Brevard Barrier Islands; Mainland Southern Brevard; Southern Brevard Barrier Islands",
+            "geocode": {
+                "SAME": [
+                    "012127",
+                    "012061",
+                    "012111",
+                    "012085",
+                    "012009"
+                ],
+                "UGC": [
+                    "FLZ141",
+                    "FLZ154",
+                    "FLZ159",
+                    "FLZ164",
+                    "FLZ347",
+                    "FLZ447",
+                    "FLZ647",
+                    "FLZ747"
+                ]
+            },
+            "affectedZones": [
+                "https://api.weather.gov/zones/forecast/FLZ141",
+                "https://api.weather.gov/zones/forecast/FLZ154",
+                "https://api.weather.gov/zones/forecast/FLZ159",
+                "https://api.weather.gov/zones/forecast/FLZ164",
+                "https://api.weather.gov/zones/forecast/FLZ347",
+                "https://api.weather.gov/zones/forecast/FLZ447",
+                "https://api.weather.gov/zones/forecast/FLZ647",
+                "https://api.weather.gov/zones/forecast/FLZ747"
+            ],
+            "references": [
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.3f6489ebcb2ae0c3192f4afe4aece12dd0f3d4e8.001.1",
+                    "identifier": "urn:oid:2.49.0.1.840.0.3f6489ebcb2ae0c3192f4afe4aece12dd0f3d4e8.001.1",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-13T14:44:00-04:00"
+                },
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.019c39c3995688e7bdb718953cae51e50f1abe98.001.1",
+                    "identifier": "urn:oid:2.49.0.1.840.0.019c39c3995688e7bdb718953cae51e50f1abe98.001.1",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-13T03:20:00-04:00"
+                },
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5a4f6ebae857243f10813da227e231258bcf71cb.001.2",
+                    "identifier": "urn:oid:2.49.0.1.840.0.5a4f6ebae857243f10813da227e231258bcf71cb.001.2",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-14T03:25:00-04:00"
+                }
+            ],
+            "sent": "2023-09-15T03:56:00-04:00",
+            "effective": "2023-09-15T03:56:00-04:00",
+            "onset": "2023-09-15T03:56:00-04:00",
+            "expires": "2023-09-15T12:00:00-04:00",
+            "ends": "2023-09-17T05:00:00-04:00",
+            "status": "Actual",
+            "messageType": "Update",
+            "category": "Met",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "urgency": "Expected",
+            "event": "Rip Current Statement",
+            "sender": "w-nws.webmaster@noaa.gov",
+            "senderName": "NWS Melbourne FL",
+            "headline": "Rip Current Statement issued September 15 at 3:56AM EDT until September 17 at 5:00AM EDT by NWS Melbourne FL",
+            "description": "* WHAT...For the High Rip Current Risk, numerous strong, life-\nthreatening rip currents. For the High Surf Advisory, large\nbreaking waves of 5 to 7 feet expected in the surf zone.\n\n* WHERE...Volusia, Brevard, Indian River, Saint Lucie and Martin\nCounties.\n\n* WHEN...For the High Rip Current Risk, through late Saturday\nnight. For the High Surf Advisory, until 11 AM EDT this\nmorning.\n\n* IMPACTS...Dangerous swimming and surfing conditions and\nlocalized beach erosion. Rip currents can sweep even the best\nswimmers away from shore into deeper water.",
+            "instruction": "High surf will affect the beaches in the advisory area, producing\nlocalized beach erosion and dangerous swimming conditions.\nSwimmers should remain out of the water due to large breaking\nwaves and a high risk of life threatening rip currents.\n\nRip currents are powerful channels of water flowing quickly away\nfrom shore, which occur most often at low spots or breaks in the\nsandbar and in the vicinity of structures such as jetties and\npiers. Heed the advice of lifeguards, beach patrol flags and\nsigns.",
+            "response": "Avoid",
+            "parameters": {
+                "AWIPSidentifier": [
+                    "CFWMLB"
+                ],
+                "WMOidentifier": [
+                    "WHUS42 KMLB 150756"
+                ],
+                "NWSheadline": [
+                    "HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH LATE SATURDAY NIGHT... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 11 AM EDT THIS MORNING"
+                ],
+                "BLOCKCHANNEL": [
+                    "EAS",
+                    "NWEM",
+                    "CMAS"
+                ],
+                "VTEC": [
+                    "/O.EXT.KMLB.RP.S.0019.000000T0000Z-230917T0900Z/"
+                ],
+                "eventEndingTime": [
+                    "2023-09-17T09:00:00+00:00"
+                ],
+                "expiredReferences": [
+                    "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.d345d1baeaf97be4382cee4b1dbbdeaf903d213e.001.1,2023-09-12T03:11:00-04:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.88ae1b33459513823e11c0ae364201b22426118a.001.1,2023-09-11T15:24:00-04:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.8bf751c7c93ad0c1b195043e99c9891417f85cfc.001.1,2023-09-11T04:37:00-04:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.aaff9d61b30fb366cbc8fed0ac6adec7137a39c3.001.1,2023-09-11T02:49:00-04:00"
+                ]
+            }
+        }
+    },
+    {
+        "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c9ebf3e021d91dab5f0bb63144a2eaa70adf0bcd.001.2",
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c9ebf3e021d91dab5f0bb63144a2eaa70adf0bcd.001.2",
+            "@type": "wx:Alert",
+            "id": "urn:oid:2.49.0.1.840.0.c9ebf3e021d91dab5f0bb63144a2eaa70adf0bcd.001.2",
+            "areaDesc": "Coastal Volusia; Coastal Indian River; Coastal St. Lucie; Coastal Martin; Mainland Northern Brevard; Northern Brevard Barrier Islands; Mainland Southern Brevard; Southern Brevard Barrier Islands",
+            "geocode": {
+                "SAME": [
+                    "012127",
+                    "012061",
+                    "012111",
+                    "012085",
+                    "012009"
+                ],
+                "UGC": [
+                    "FLZ141",
+                    "FLZ154",
+                    "FLZ159",
+                    "FLZ164",
+                    "FLZ347",
+                    "FLZ447",
+                    "FLZ647",
+                    "FLZ747"
+                ]
+            },
+            "affectedZones": [
+                "https://api.weather.gov/zones/forecast/FLZ141",
+                "https://api.weather.gov/zones/forecast/FLZ154",
+                "https://api.weather.gov/zones/forecast/FLZ159",
+                "https://api.weather.gov/zones/forecast/FLZ164",
+                "https://api.weather.gov/zones/forecast/FLZ347",
+                "https://api.weather.gov/zones/forecast/FLZ447",
+                "https://api.weather.gov/zones/forecast/FLZ647",
+                "https://api.weather.gov/zones/forecast/FLZ747"
+            ],
+            "references": [
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.5a4f6ebae857243f10813da227e231258bcf71cb.001.1",
+                    "identifier": "urn:oid:2.49.0.1.840.0.5a4f6ebae857243f10813da227e231258bcf71cb.001.1",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-14T03:25:00-04:00"
+                }
+            ],
+            "sent": "2023-09-15T03:56:00-04:00",
+            "effective": "2023-09-15T03:56:00-04:00",
+            "onset": "2023-09-15T03:56:00-04:00",
+            "expires": "2023-09-15T12:00:00-04:00",
+            "ends": "2023-09-15T11:00:00-04:00",
+            "status": "Actual",
+            "messageType": "Update",
+            "category": "Met",
+            "severity": "Minor",
+            "certainty": "Likely",
+            "urgency": "Expected",
+            "event": "High Surf Advisory",
+            "sender": "w-nws.webmaster@noaa.gov",
+            "senderName": "NWS Melbourne FL",
+            "headline": "High Surf Advisory issued September 15 at 3:56AM EDT until September 15 at 11:00AM EDT by NWS Melbourne FL",
+            "description": "* WHAT...For the High Rip Current Risk, numerous strong, life-\nthreatening rip currents. For the High Surf Advisory, large\nbreaking waves of 5 to 7 feet expected in the surf zone.\n\n* WHERE...Volusia, Brevard, Indian River, Saint Lucie and Martin\nCounties.\n\n* WHEN...For the High Rip Current Risk, through late Saturday\nnight. For the High Surf Advisory, until 11 AM EDT this\nmorning.\n\n* IMPACTS...Dangerous swimming and surfing conditions and\nlocalized beach erosion. Rip currents can sweep even the best\nswimmers away from shore into deeper water.",
+            "instruction": "High surf will affect the beaches in the advisory area, producing\nlocalized beach erosion and dangerous swimming conditions.\nSwimmers should remain out of the water due to large breaking\nwaves and a high risk of life threatening rip currents.\n\nRip currents are powerful channels of water flowing quickly away\nfrom shore, which occur most often at low spots or breaks in the\nsandbar and in the vicinity of structures such as jetties and\npiers. Heed the advice of lifeguards, beach patrol flags and\nsigns.",
+            "response": "Avoid",
+            "parameters": {
+                "AWIPSidentifier": [
+                    "CFWMLB"
+                ],
+                "WMOidentifier": [
+                    "WHUS42 KMLB 150756"
+                ],
+                "NWSheadline": [
+                    "HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH LATE SATURDAY NIGHT... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 11 AM EDT THIS MORNING"
+                ],
+                "BLOCKCHANNEL": [
+                    "EAS",
+                    "NWEM",
+                    "CMAS"
+                ],
+                "VTEC": [
+                    "/O.CON.KMLB.SU.Y.0004.000000T0000Z-230915T1500Z/"
+                ],
+                "eventEndingTime": [
+                    "2023-09-15T15:00:00+00:00"
+                ]
+            }
+        }
+    },
+    {
+        "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c3142c958095dfe3614276b1f2e832d387b35b34.001.2",
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c3142c958095dfe3614276b1f2e832d387b35b34.001.2",
+            "@type": "wx:Alert",
+            "id": "urn:oid:2.49.0.1.840.0.c3142c958095dfe3614276b1f2e832d387b35b34.001.2",
+            "areaDesc": "Coastal Nassau; Coastal Duval; Coastal St. Johns; Coastal Flagler; Coastal Glynn; Coastal Camden",
+            "geocode": {
+                "SAME": [
+                    "012089",
+                    "012031",
+                    "012109",
+                    "012035",
+                    "013127",
+                    "013039"
+                ],
+                "UGC": [
+                    "FLZ124",
+                    "FLZ125",
+                    "FLZ133",
+                    "FLZ138",
+                    "GAZ154",
+                    "GAZ166"
+                ]
+            },
+            "affectedZones": [
+                "https://api.weather.gov/zones/forecast/FLZ124",
+                "https://api.weather.gov/zones/forecast/FLZ125",
+                "https://api.weather.gov/zones/forecast/FLZ133",
+                "https://api.weather.gov/zones/forecast/FLZ138",
+                "https://api.weather.gov/zones/forecast/GAZ154",
+                "https://api.weather.gov/zones/forecast/GAZ166"
+            ],
+            "references": [
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4a74d78679bbbc21dd7ba26ed5f88d0ab04bd1f9.001.2",
+                    "identifier": "urn:oid:2.49.0.1.840.0.4a74d78679bbbc21dd7ba26ed5f88d0ab04bd1f9.001.2",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-14T02:22:00-04:00"
+                },
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6c2db1a446afadba2d81b32946893cfb8503621d.001.2",
+                    "identifier": "urn:oid:2.49.0.1.840.0.6c2db1a446afadba2d81b32946893cfb8503621d.001.2",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-14T15:08:00-04:00"
+                }
+            ],
+            "sent": "2023-09-15T02:38:00-04:00",
+            "effective": "2023-09-15T02:38:00-04:00",
+            "onset": "2023-09-15T02:38:00-04:00",
+            "expires": "2023-09-15T20:00:00-04:00",
+            "ends": "2023-09-17T05:00:00-04:00",
+            "status": "Actual",
+            "messageType": "Update",
+            "category": "Met",
+            "severity": "Moderate",
+            "certainty": "Likely",
+            "urgency": "Expected",
+            "event": "Rip Current Statement",
+            "sender": "w-nws.webmaster@noaa.gov",
+            "senderName": "NWS Jacksonville FL",
+            "headline": "Rip Current Statement issued September 15 at 2:38AM EDT until September 17 at 5:00AM EDT by NWS Jacksonville FL",
+            "description": "* WHAT...For the High Surf Advisory, large breaking waves of 5-7\nft. For the High Rip Current Risk, dangerous rip currents.\n\n* WHERE...Southeast Georgia and Northeast Florida Beaches.\n\n* WHEN...For the High Surf Advisory, until 8 PM EDT this\nevening. For the High Rip Current Risk, through late Saturday\nnight.\n\n* IMPACTS...Dangerous swimming and surfing conditions and\nlocalized beach erosion. Rip currents can sweep even the best\nswimmers away from shore into deeper water.",
+            "instruction": "Inexperienced swimmers should remain out of the water due to\ndangerous surf conditions.\n\nSwim near a lifeguard. If caught in a rip current, relax and\nfloat. Don't swim against the current. If able, swim in a\ndirection following the shoreline. If unable to escape, face the\nshore and call or wave for help.",
+            "response": "Avoid",
+            "parameters": {
+                "AWIPSidentifier": [
+                    "CFWJAX"
+                ],
+                "WMOidentifier": [
+                    "WHUS42 KJAX 150638"
+                ],
+                "NWSheadline": [
+                    "HIGH SURF ADVISORY NOW IN EFFECT UNTIL 8 PM EDT THIS EVENING... ...HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH LATE SATURDAY NIGHT"
+                ],
+                "BLOCKCHANNEL": [
+                    "EAS",
+                    "NWEM",
+                    "CMAS"
+                ],
+                "VTEC": [
+                    "/O.EXT.KJAX.RP.S.0031.000000T0000Z-230917T0900Z/"
+                ],
+                "eventEndingTime": [
+                    "2023-09-17T09:00:00+00:00"
+                ],
+                "expiredReferences": [
+                    "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.109b7b75842848182c44c2f80f3b8717adf5cffe.001.2,2023-09-14T09:31:00-04:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.55ed9aa9abb38461b1094b58ced56e38e790a1ef.001.1,2023-09-13T02:12:00-04:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.4fb600941b7d29ac0fe2b51de4e0745d988cf7dd.001.1,2023-09-12T02:15:00-04:00 w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.0e4a917dfe71c3c45e5193c9e96a377f1a70555d.001.1,2023-09-11T02:00:00-04:00"
+                ]
+            }
+        }
+    },
+    {
+        "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c3142c958095dfe3614276b1f2e832d387b35b34.001.1",
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+            "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.c3142c958095dfe3614276b1f2e832d387b35b34.001.1",
+            "@type": "wx:Alert",
+            "id": "urn:oid:2.49.0.1.840.0.c3142c958095dfe3614276b1f2e832d387b35b34.001.1",
+            "areaDesc": "Coastal Nassau; Coastal Duval; Coastal St. Johns; Coastal Flagler; Coastal Glynn; Coastal Camden",
+            "geocode": {
+                "SAME": [
+                    "012089",
+                    "012031",
+                    "012109",
+                    "012035",
+                    "013127",
+                    "013039"
+                ],
+                "UGC": [
+                    "FLZ124",
+                    "FLZ125",
+                    "FLZ133",
+                    "FLZ138",
+                    "GAZ154",
+                    "GAZ166"
+                ]
+            },
+            "affectedZones": [
+                "https://api.weather.gov/zones/forecast/FLZ124",
+                "https://api.weather.gov/zones/forecast/FLZ125",
+                "https://api.weather.gov/zones/forecast/FLZ133",
+                "https://api.weather.gov/zones/forecast/FLZ138",
+                "https://api.weather.gov/zones/forecast/GAZ154",
+                "https://api.weather.gov/zones/forecast/GAZ166"
+            ],
+            "references": [
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4a74d78679bbbc21dd7ba26ed5f88d0ab04bd1f9.001.1",
+                    "identifier": "urn:oid:2.49.0.1.840.0.4a74d78679bbbc21dd7ba26ed5f88d0ab04bd1f9.001.1",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-14T02:22:00-04:00"
+                },
+                {
+                    "@id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.6c2db1a446afadba2d81b32946893cfb8503621d.001.1",
+                    "identifier": "urn:oid:2.49.0.1.840.0.6c2db1a446afadba2d81b32946893cfb8503621d.001.1",
+                    "sender": "w-nws.webmaster@noaa.gov",
+                    "sent": "2023-09-14T15:08:00-04:00"
+                }
+            ],
+            "sent": "2023-09-15T02:38:00-04:00",
+            "effective": "2023-09-15T02:38:00-04:00",
+            "onset": "2023-09-15T02:38:00-04:00",
+            "expires": "2023-09-15T20:00:00-04:00",
+            "ends": "2023-09-15T20:00:00-04:00",
+            "status": "Actual",
+            "messageType": "Update",
+            "category": "Met",
+            "severity": "Minor",
+            "certainty": "Likely",
+            "urgency": "Expected",
+            "event": "High Surf Advisory",
+            "sender": "w-nws.webmaster@noaa.gov",
+            "senderName": "NWS Jacksonville FL",
+            "headline": "High Surf Advisory issued September 15 at 2:38AM EDT until September 15 at 8:00PM EDT by NWS Jacksonville FL",
+            "description": "* WHAT...For the High Surf Advisory, large breaking waves of 5-7\nft. For the High Rip Current Risk, dangerous rip currents.\n\n* WHERE...Southeast Georgia and Northeast Florida Beaches.\n\n* WHEN...For the High Surf Advisory, until 8 PM EDT this\nevening. For the High Rip Current Risk, through late Saturday\nnight.\n\n* IMPACTS...Dangerous swimming and surfing conditions and\nlocalized beach erosion. Rip currents can sweep even the best\nswimmers away from shore into deeper water.",
+            "instruction": "Inexperienced swimmers should remain out of the water due to\ndangerous surf conditions.\n\nSwim near a lifeguard. If caught in a rip current, relax and\nfloat. Don't swim against the current. If able, swim in a\ndirection following the shoreline. If unable to escape, face the\nshore and call or wave for help.",
+            "response": "Avoid",
+            "parameters": {
+                "AWIPSidentifier": [
+                    "CFWJAX"
+                ],
+                "WMOidentifier": [
+                    "WHUS42 KJAX 150638"
+                ],
+                "NWSheadline": [
+                    "HIGH SURF ADVISORY NOW IN EFFECT UNTIL 8 PM EDT THIS EVENING... ...HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH LATE SATURDAY NIGHT"
+                ],
+                "BLOCKCHANNEL": [
+                    "EAS",
+                    "NWEM",
+                    "CMAS"
+                ],
+                "VTEC": [
+                    "/O.EXT.KJAX.SU.Y.0004.000000T0000Z-230916T0000Z/"
+                ],
+                "eventEndingTime": [
+                    "2023-09-16T00:00:00+00:00"
+                ],
+                "expiredReferences": [
+                    "w-nws.webmaster@noaa.gov,urn:oid:2.49.0.1.840.0.109b7b75842848182c44c2f80f3b8717adf5cffe.001.1,2023-09-14T09:31:00-04:00"
+                ]
+            }
+        }
+    }
+]
